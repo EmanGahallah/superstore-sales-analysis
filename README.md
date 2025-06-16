@@ -43,10 +43,11 @@ superstore-analysis/
 
 ## Sample Dashboard View
 
-![Regional Analysis](screenshots/Regional%20Analysis.png)
 ![Sales and profit overview](screenshots/Sales&profit%20overview.png)
-![Shipping Analysis](screenshots/Shipping%20Analysis.png)
 ![Time Trends](screenshots/Time%20Trends.png)
+![Regional Analysis](screenshots/Regional%20Analysis.png)
+![Shipping Analysis](screenshots/Shipping%20Analysis.png)
+
 
 ---
 
